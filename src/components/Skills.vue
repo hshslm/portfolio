@@ -17,6 +17,8 @@
           <img v-tooltip.top="{content: 'MySQL', offset: 10, classes: 'tooltip-custom', hideOnTargetClick: false}" src="../assets/skills/sql.svg"  class="skill-icon h-10 md:h-20 mx-4 md:mx-8 my-6 md:my-12" alt="">
           <img v-tooltip.top="{content: 'Firebase', offset: 10, classes: 'tooltip-custom', hideOnTargetClick: false}" src="../assets/skills/firebase.svg"  class="skill-icon h-10 md:h-20 mx-4 md:mx-8 my-6 md:my-12" alt="">
           <img v-tooltip.top="{content: 'Git', offset: 10, classes: 'tooltip-custom', hideOnTargetClick: false}" src="../assets/skills/git.svg"  class="skill-icon h-10 md:h-20 mx-4 md:mx-8 my-6 md:my-12" alt="">
+          <img v-tooltip.top="{content: 'Jira', offset: 10, classes: 'tooltip-custom', hideOnTargetClick: false}" src="../assets/skills/jira.svg"  class="skill-icon h-10 md:h-20 mx-4 md:mx-8 my-6 md:my-12" alt="">
+          <img v-tooltip.top="{content: 'Figma', offset: 10, classes: 'tooltip-custom', hideOnTargetClick: false}" src="../assets/skills/figma.svg"  class="skill-icon h-10 md:h-20 mx-4 md:mx-8 my-6 md:my-12" alt="">
           <img v-tooltip.top="{content: 'Adobe Photoshop', offset: 10, classes: 'tooltip-custom', hideOnTargetClick: false}" src="../assets/skills/photoshop.svg"  class="skill-icon h-10 md:h-20 mx-4 md:mx-8 my-6 md:my-12" alt="">
           <img v-tooltip.top="{content: 'Adobe Illustrator', offset: 10, classes: 'tooltip-custom', hideOnTargetClick: false}" src="../assets/skills/illustrator.svg"  class="skill-icon h-10 md:h-20 mx-4 md:mx-8 my-6 md:my-12" alt="">
       </div>

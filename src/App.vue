@@ -51,9 +51,10 @@
         <Skills/>
         <Work/>
         <Contact/>
-        <div class="text-xs md:text-base text-center bg-white pt-5 cursor-default text-main flex items-center justify-between px-2" style="color:#181818">
-          <a href="https://github.com/hshslm/portfolio" target="_blank" class="cursor-pointer hover:text-main">View Code</a>
+        <div class="text-xs md:text-base text-center bg-white pt-5 cursor-default text-main flex items-center justify-between px-0 flex-row-reverse md:flex-row" style="color:#181818">
+          <div class="w-28 hidden md:block"></div>
           <div>© 2023 <span class="">Hashim Salem</span></div>
+          <a href="https://github.com/hshslm/portfolio" target="_blank" class="cursor-pointer hover:text-main whitespace-nowrap"><span class="text-main font-bold">[ </span>CODE<span class="text-main font-bold"> ]</span></a>
         </div>
       </div>
     </transition>

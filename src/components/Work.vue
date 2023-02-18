@@ -4,7 +4,7 @@
         <!-- HBM -->
         <div class="md:flex justify-center mt-28 md:mt-40 mb-10 md:mb-20 items-center">
             <div class="md:w-48p">
-                <a href="https://product-module.34ml.com/" target="_blank">
+                <a href="https://hbm.studio/" target="_blank">
                     <img class="cursor-pointer mx-auto" src="../assets/mockups/hbm.png" alt="">
                 </a>
             </div>
@@ -23,7 +23,8 @@
                 </div>
                 <div class="flex justify-center items-center">
                     <div class="mx-4 text-sm md:text-base work-links opacity-25 cursor-default">Code</div>
-                    <a href="https://product-module.34ml.com/" target="_blank" class="mx-4 cursor-pointer text-sm md:text-base work-links">Preview</a>
+                    <div class="mx-4 text-sm md:text-base work-links opacity-25 cursor-default">Preview</div>
+                    <!-- <a href="https://product-module.34ml.com/" target="_blank" class="mx-4 cursor-pointer text-sm md:text-base work-links">Preview</a> -->
                 </div>
             </div>
         </div>
